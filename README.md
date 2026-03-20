@@ -9,6 +9,8 @@ It gives you a structured, colorful workspace to plan, write, and revise your no
 - Writing goals & progress tracking.
 - Theme‑aware, minimal, and extensible.
 
+![Cover image](https://techwiseinsider.com/wp-content/uploads/2026/03/The-Novelist-Obsidian-Vault-for-Novel-Writers-Worldbuilding-Dark-Mode-scaled.png)
+
 ## Features
 
 ### Worldbuilding canvas
@@ -23,6 +25,8 @@ A pre‑built **Canvas** acts as the control center of your novel:
 - **Book details & cover**
 
 Use it as a visual map to navigate your story, brainstorm, and keep the big picture in view.
+
+![Cover image](https://techwiseinsider.com/wp-content/uploads/2026/03/The-Novelist-Obsidian-Vault-for-Novel-Writers-Worldbuilding-Light-Mode-1-scaled.png)
 
 ### Chapter management
 
@@ -60,6 +64,8 @@ Once you start linking:
 - Spot underused characters or locations.
 - See which POVs dominate.
 - Discover missing connections and potential subplots.
+
+![Cover image](https://techwiseinsider.com/wp-content/uploads/2026/03/The-Novelist-Obsidian-Vault-for-Novel-Writers-Second-Mind-Dark-Mode-scaled.png)
 
 ### Multitasking layout
 
