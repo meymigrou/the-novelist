@@ -112,7 +112,6 @@ Core Obsidian plugins used include:
 
 - Download the files from here (GitHub) or go to the Gumroad page:  
   **https://sakalakis.gumroad.com/l/the-novelist-free-obsidian-vault**
-- Download the `.zip` file.
 
 ### 2. Extract the archive
 
@@ -155,6 +154,12 @@ You’re encouraged to tweak the vault to match your style.
 The vault is a starting point.
 
 ## Changelog
+
+### v2.1
+
+- I have updated the Instructions document to include a link to The Novelist's new documentation.
+- The Documentation.html file has been added to the download files.
+Thank you all for the feedback!
 
 ### v2.0
 
