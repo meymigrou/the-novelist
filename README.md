@@ -110,16 +110,16 @@ Core Obsidian plugins used include:
 
 ### 1. Download the vault
 
-- Download the files from here (GitHub) or go to the Gumroad page:  
-  **https://sakalakis.gumroad.com/l/the-novelist-free-obsidian-vault**
-
+- Download the files from GitHub or from Gumroad:
+- Download the files from here (GitHub) or go to the Gumroad page: **https://sakalakis.gumroad.com/l/the-novelist-free-obsidian-vault**
+  
 ### 2. Extract the archive
 
 - **Windows:** Right‑click → **Extract Here**
 - **macOS:** Double‑click the `.zip`
 - **Linux:** Right‑click → **Extract Here**
 
-You should now have a folder named something like `The Novelist`.
+You should now have a folder named `The Novelist`.
 
 ### 3. Open in Obsidian
 
@@ -152,6 +152,8 @@ You’re encouraged to tweak the vault to match your style.
 - Swap the theme if you prefer a different look.
 
 The vault is a starting point.
+
+For step-by-step instructions with pictures: **https://panossakalakis.com/how-to-install-and-setup-the-novelist-vault/**
 
 ## Changelog
 
